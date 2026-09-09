@@ -4,6 +4,8 @@ A private, offline Markdown editor with a live HTML preview. **Just Render the M
 
 [View the App](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
 
+Current version: **0.2.0** — shown in the app's About dialog.
+
 ## Features
 
 - Live Markdown-to-HTML preview
@@ -11,6 +13,7 @@ A private, offline Markdown editor with a live HTML preview. **Just Render the M
 - Download the rendered document as a complete standalone `.html` file
 - Six built-in Markdown examples
 - GitHub-style Markdown features including tables, task lists, strikethrough, autolinks, and fenced code blocks
+- Syntax highlighting for 36 languages in fenced code blocks, in both the editor and the rendered document
 - Raw HTML is disabled by default for security
 - 40-language user interface
 - No ads, registration, subscriptions, or trackers
@@ -30,6 +33,18 @@ The document-mode dropdown provides:
 - **Always Light**
 
 The same generated CSS is used for both the live preview and downloaded HTML, so exported documents match the selected theme and mode behavior.
+
+## Syntax Highlighting
+
+Fenced code blocks are syntax highlighted when the fence names a language:
+
+    ```python
+    print("hello")
+    ```
+
+Highlighting is powered by Highlight.js 11.9.0.
+
+Supported languages: Bash, C, C++, C#, CSS, Diff, Go, GraphQL, INI/TOML, Java, JavaScript, JSON, Kotlin, Less, Lua, Makefile, Markdown, Objective-C, Perl, PHP, PHP Template, Plain Text, Python, Python REPL, R, Ruby, Rust, SCSS, Shell Session, SQL, Swift, TypeScript, VB.NET, WebAssembly, XML/HTML, and YAML.
 
 ## Raw HTML
 
