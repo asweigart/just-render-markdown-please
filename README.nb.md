@@ -6,7 +6,7 @@
 
 En privat Markdown-editor som virker uten nett, med direkte HTML-forhåndsvisning. **Just Render the Markdown, Please** er en nettapp i én enkelt fil: lagre HTML-filen, åpne den i en nettleser, og bruk den uten konto, tjener, installasjon eller internettforbindelse. Alle data blir værende på din egen maskin; ingenting lastes opp.
 
-[Åpne appen](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Åpne appen](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Gjeldende versjon: **0.2.0** — vises i appens «Om»-dialog.
 

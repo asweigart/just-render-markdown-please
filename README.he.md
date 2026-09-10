@@ -6,7 +6,7 @@
 
 עורך Markdown פרטי שפועל גם ללא חיבור לאינטרנט, עם תצוגה מקדימה חיה של HTML. ‏**Just Render the Markdown, Please** הוא יישום רשת בקובץ יחיד: שמרו את קובץ ה‑HTML, פתחו אותו בדפדפן והשתמשו בו בלי חשבון, שרת, התקנה או חיבור לאינטרנט. כל הנתונים נשארים במחשב שלכם; שום דבר אינו מועלה.
 
-[פתיחת היישום](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[פתיחת היישום](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 הגרסה הנוכחית: **0.2.0** — מוצגת בחלון "אודות" של היישום.
 

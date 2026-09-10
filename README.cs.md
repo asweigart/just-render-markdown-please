@@ -6,7 +6,7 @@
 
 Soukromý offline editor Markdownu s živým náhledem HTML. **Just Render the Markdown, Please** je webová aplikace v jediném souboru: uložte soubor HTML, otevřete jej v prohlížeči a používejte bez účtu, serveru, instalace i připojení k internetu. Všechna data zůstávají ve vašem počítači; nic se nikam neodesílá.
 
-[Otevřít aplikaci](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Otevřít aplikaci](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Aktuální verze: **0.2.0** — zobrazuje se v dialogu „O aplikaci“.
 

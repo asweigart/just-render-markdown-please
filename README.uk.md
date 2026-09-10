@@ -6,7 +6,7 @@
 
 Приватний офлайн-редактор Markdown із живим попереднім переглядом HTML. **Just Render the Markdown, Please** — це вебзастосунок з одного файлу: збережіть HTML-файл, відкрийте його у браузері й користуйтеся без облікового запису, сервера, встановлення чи підключення до інтернету. Усі дані залишаються на вашому комп'ютері; нічого не завантажується в мережу.
 
-[Відкрити застосунок](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Відкрити застосунок](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Поточна версія: **0.2.0** — показана у вікні «Про програму».
 

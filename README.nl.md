@@ -6,7 +6,7 @@
 
 Een privacyvriendelijke, offline Markdown-editor met een live HTML-voorbeeld. **Just Render the Markdown, Please** is een webapp die uit één bestand bestaat: sla het HTML-bestand op, open het in een browser en gebruik het zonder account, server, installatie of internetverbinding. Alle gegevens blijven op je eigen computer; er wordt niets geüpload.
 
-[App openen](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[App openen](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Huidige versie: **0.2.0** — te zien in het venster "Over" van de app.
 

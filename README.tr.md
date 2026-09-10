@@ -6,7 +6,7 @@
 
 Canlı HTML önizlemesi sunan, gizliliğe saygılı ve çevrimdışı çalışan bir Markdown düzenleyici. **Just Render the Markdown, Please**, tek dosyalık bir web uygulamasıdır: HTML dosyasını kaydedin, tarayıcıda açın ve hesap, sunucu, kurulum ya da internet bağlantısı olmadan kullanın. Tüm veriler bilgisayarınızda kalır; hiçbir şey yüklenmez.
 
-[Uygulamayı aç](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Uygulamayı aç](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Geçerli sürüm: **0.2.0** — uygulamanın "Hakkında" penceresinde gösterilir.
 

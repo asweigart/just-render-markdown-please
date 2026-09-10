@@ -6,7 +6,7 @@
 
 لائیو HTML پیش نظارہ کے ساتھ ایک نجی، آف لائن مارک ڈاؤن ایڈیٹر۔ **Just Render the Markdown, Please** ایک ہی فائل پر مشتمل ویب ایپ ہے: HTML فائل محفوظ کریں، براؤزر میں کھولیں، اور بغیر کسی اکاؤنٹ، سرور، انسٹالیشن یا انٹرنیٹ کنکشن کے استعمال کریں۔ تمام ڈیٹا آپ کے کمپیوٹر پر ہی رہتا ہے؛ کچھ بھی اپ لوڈ نہیں ہوتا۔
 
-[ایپ کھولیں](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[ایپ کھولیں](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 موجودہ ورژن: **0.2.0** — ایپ کے "تعارف" ڈائیلاگ میں دکھایا جاتا ہے۔
 

@@ -6,7 +6,7 @@
 
 Privatan Markdown uređivač koji radi izvan mreže, uz prikaz HTML-a uživo. **Just Render the Markdown, Please** je web-aplikacija u jednoj jedinoj datoteci: spremite HTML datoteku, otvorite je u pregledniku i koristite bez računa, poslužitelja, instalacije ili internetske veze. Svi podaci ostaju na vašem računalu; ništa se ne prenosi na mrežu.
 
-[Otvori aplikaciju](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Otvori aplikaciju](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Trenutna inačica: **0.2.0** — prikazuje se u prozoru „O aplikaciji“.
 

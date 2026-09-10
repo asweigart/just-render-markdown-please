@@ -6,7 +6,7 @@
 
 محرِّر Markdown خاص يعمل دون اتصال بالإنترنت مع معاينة HTML مباشرة. تطبيق **Just Render the Markdown, Please** هو تطبيق ويب من ملف واحد: احفظ ملف HTML، وافتحه في المتصفح، واستخدمه دون حساب أو خادم أو تثبيت أو اتصال بالإنترنت. تبقى جميع البيانات على جهازك ولا يُرفع أي شيء.
 
-[فتح التطبيق](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[فتح التطبيق](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 الإصدار الحالي: **0.2.0** — يظهر في نافذة «حول» داخل التطبيق.
 

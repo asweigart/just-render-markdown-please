@@ -6,7 +6,7 @@
 
 Yksityinen, verkkoyhteydettä toimiva Markdown-editori, jossa on reaaliaikainen HTML-esikatselu. **Just Render the Markdown, Please** on yhden tiedoston verkkosovellus: tallenna HTML-tiedosto, avaa se selaimessa ja käytä sitä ilman tiliä, palvelinta, asennusta tai internetyhteyttä. Kaikki tiedot pysyvät omalla koneellasi; mitään ei lähetetä verkkoon.
 
-[Avaa sovellus](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Avaa sovellus](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Nykyinen versio: **0.2.0** — näkyy sovelluksen Tietoja-ikkunassa.
 

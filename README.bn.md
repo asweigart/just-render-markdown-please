@@ -6,7 +6,7 @@
 
 লাইভ HTML প্রিভিউ সহ একটি ব্যক্তিগত, অফলাইন মার্কডাউন সম্পাদক। **Just Render the Markdown, Please** একটি একক-ফাইল ওয়েব অ্যাপ: HTML ফাইলটি সংরক্ষণ করুন, ব্রাউজারে খুলুন, এবং কোনো অ্যাকাউন্ট, সার্ভার, ইনস্টলেশন বা ইন্টারনেট সংযোগ ছাড়াই ব্যবহার করুন। সব তথ্য আপনার কম্পিউটারেই থাকে; কিছুই আপলোড হয় না।
 
-[অ্যাপটি খুলুন](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[অ্যাপটি খুলুন](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 বর্তমান সংস্করণ: **0.2.0** — অ্যাপের "সম্পর্কে" ডায়ালগে দেখানো হয়।
 

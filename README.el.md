@@ -6,7 +6,7 @@
 
 Ένας ιδιωτικός επεξεργαστής Markdown που λειτουργεί εκτός σύνδεσης, με ζωντανή προεπισκόπηση HTML. Το **Just Render the Markdown, Please** είναι μια εφαρμογή ιστού ενός μόνο αρχείου: αποθηκεύστε το αρχείο HTML, ανοίξτε το σε ένα πρόγραμμα περιήγησης και χρησιμοποιήστε το χωρίς λογαριασμό, διακομιστή, εγκατάσταση ή σύνδεση στο διαδίκτυο. Όλα τα δεδομένα παραμένουν στον υπολογιστή σας· τίποτα δεν μεταφορτώνεται.
 
-[Άνοιγμα εφαρμογής](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Άνοιγμα εφαρμογής](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Τρέχουσα έκδοση: **0.2.0** — εμφανίζεται στο παράθυρο «Σχετικά» της εφαρμογής.
 

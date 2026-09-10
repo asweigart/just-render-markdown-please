@@ -6,7 +6,7 @@
 
 Частен Markdown редактор, който работи офлайн, с живо HTML визуализиране. **Just Render the Markdown, Please** е уеб приложение от един-единствен файл: запазете HTML файла, отворете го в браузър и го използвайте без акаунт, сървър, инсталация или връзка с интернет. Всички данни остават на вашия компютър; нищо не се качва.
 
-[Отваряне на приложението](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Отваряне на приложението](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Текуща версия: **0.2.0** — показва се в прозореца „Относно“ на приложението.
 

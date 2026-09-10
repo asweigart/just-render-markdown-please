@@ -6,7 +6,7 @@
 
 Bizalmas, offline Markdown-szerkesztő élő HTML-előnézettel. A **Just Render the Markdown, Please** egyetlen fájlból álló webalkalmazás: mentse el a HTML-fájlt, nyissa meg böngészőben, és használja fiók, kiszolgáló, telepítés és internetkapcsolat nélkül. Minden adat a saját számítógépén marad; semmi sem kerül feltöltésre.
 
-[Alkalmazás megnyitása](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Alkalmazás megnyitása](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Jelenlegi verzió: **0.2.0** — az alkalmazás „Névjegy” ablakában látható.
 

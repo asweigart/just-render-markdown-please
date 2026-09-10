@@ -6,7 +6,7 @@
 
 一款注重隐私、可离线使用的 Markdown 编辑器，带有实时 HTML 预览。**Just Render the Markdown, Please** 是一个单文件网页应用：保存该 HTML 文件，在浏览器中打开即可使用，无需账号、服务器、安装或联网。所有数据都保存在你自己的电脑上，不会上传任何内容。
 
-[打开应用](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[打开应用](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 当前版本：**0.2.0** —— 可在应用的“关于”对话框中查看。
 

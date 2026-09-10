@@ -6,7 +6,7 @@
 
 लाइव HTML पूर्वावलोकन के साथ एक निजी, ऑफ़लाइन मार्कडाउन संपादक। **Just Render the Markdown, Please** एक ही फ़ाइल वाला वेब ऐप है: HTML फ़ाइल सहेजें, उसे ब्राउज़र में खोलें, और बिना खाते, सर्वर, इंस्टॉलेशन या इंटरनेट कनेक्शन के इसका उपयोग करें। सारा डेटा आपके कंप्यूटर पर ही रहता है; कुछ भी अपलोड नहीं होता।
 
-[ऐप खोलें](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[ऐप खोलें](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 वर्तमान संस्करण: **0.2.0** — ऐप के "परिचय" संवाद में दिखाया जाता है।
 

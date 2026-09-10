@@ -6,7 +6,7 @@
 
 Một trình soạn thảo Markdown riêng tư, hoạt động ngoại tuyến, kèm bản xem trước HTML trực tiếp. **Just Render the Markdown, Please** là một ứng dụng web chỉ gồm một tệp: lưu tệp HTML, mở trong trình duyệt và dùng ngay mà không cần tài khoản, máy chủ, cài đặt hay kết nối internet. Mọi dữ liệu đều nằm trên máy của bạn; không có gì được tải lên.
 
-[Mở ứng dụng](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Mở ứng dụng](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Phiên bản hiện tại: **0.2.0** — hiển thị trong hộp thoại "Giới thiệu" của ứng dụng.
 

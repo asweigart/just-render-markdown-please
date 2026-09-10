@@ -6,7 +6,7 @@
 
 プライベートかつオフラインで使える、HTML ライブプレビュー付きの Markdown エディターです。**Just Render the Markdown, Please** は単一ファイルの Web アプリです。HTML ファイルを保存してブラウザーで開けば、アカウント・サーバー・インストール・インターネット接続なしで使えます。データはすべて自分のコンピューター内に留まり、何もアップロードされません。
 
-[アプリを開く](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[アプリを開く](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 現在のバージョン: **0.2.0** — アプリの「情報」ダイアログに表示されます。
 

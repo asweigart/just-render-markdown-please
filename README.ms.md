@@ -6,7 +6,7 @@
 
 Penyunting Markdown yang peribadi dan luar talian dengan pratonton HTML secara langsung. **Just Render the Markdown, Please** ialah aplikasi web satu fail: simpan fail HTML, buka dalam pelayar, dan gunakannya tanpa akaun, pelayan, pemasangan atau sambungan internet. Semua data kekal pada komputer anda; tiada apa-apa yang dimuat naik.
 
-[Buka Aplikasi](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Buka Aplikasi](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Versi semasa: **0.2.0** — dipaparkan dalam dialog "Perihal" aplikasi.
 

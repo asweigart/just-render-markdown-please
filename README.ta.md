@@ -6,7 +6,7 @@
 
 நேரடி HTML முன்னோட்டத்துடன் கூடிய, தனிப்பட்ட, இணையம் இல்லாமலும் இயங்கும் Markdown திருத்தி. **Just Render the Markdown, Please** ஒரே கோப்பில் அமைந்த வலைப் பயன்பாடு: HTML கோப்பைச் சேமித்து, உலாவியில் திறந்து, கணக்கு, சேவையகம், நிறுவல் அல்லது இணைய இணைப்பு இல்லாமல் பயன்படுத்தலாம். எல்லாத் தரவும் உங்கள் கணினியிலேயே இருக்கும்; எதுவும் பதிவேற்றப்படுவதில்லை.
 
-[பயன்பாட்டைத் திற](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[பயன்பாட்டைத் திற](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 தற்போதைய பதிப்பு: **0.2.0** — பயன்பாட்டின் "பற்றி" உரையாடலில் காட்டப்படுகிறது.
 

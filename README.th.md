@@ -6,7 +6,7 @@
 
 โปรแกรมแก้ไข Markdown ที่เป็นส่วนตัวและใช้งานแบบออฟไลน์ พร้อมตัวอย่าง HTML แบบสด **Just Render the Markdown, Please** เป็นเว็บแอปไฟล์เดียว เพียงบันทึกไฟล์ HTML เปิดในเบราว์เซอร์ แล้วใช้งานได้เลยโดยไม่ต้องมีบัญชี เซิร์ฟเวอร์ การติดตั้ง หรือการเชื่อมต่ออินเทอร์เน็ต ข้อมูลทั้งหมดอยู่ในเครื่องของคุณ ไม่มีการอัปโหลดสิ่งใด
 
-[เปิดแอป](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[เปิดแอป](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 เวอร์ชันปัจจุบัน: **0.2.0** — แสดงในกล่องโต้ตอบ "เกี่ยวกับ" ของแอป
 

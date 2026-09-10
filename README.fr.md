@@ -6,7 +6,7 @@
 
 Un éditeur Markdown privé et hors ligne avec un aperçu HTML en direct. **Just Render the Markdown, Please** est une application web en un seul fichier : enregistrez le fichier HTML, ouvrez-le dans un navigateur et utilisez-le sans compte, sans serveur, sans installation ni connexion internet. Toutes les données restent sur votre ordinateur ; rien n'est téléversé.
 
-[Ouvrir l'application](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Ouvrir l'application](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Version actuelle : **0.2.0** — affichée dans la fenêtre « À propos » de l'application.
 

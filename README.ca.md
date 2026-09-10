@@ -6,7 +6,7 @@
 
 Un editor de Markdown privat i sense connexió, amb previsualització d'HTML en directe. **Just Render the Markdown, Please** és una aplicació web d'un sol fitxer: deseu el fitxer HTML, obriu-lo en un navegador i feu-lo servir sense compte, servidor, instal·lació ni connexió a internet. Totes les dades es queden al vostre ordinador; no es puja res.
 
-[Obre l'aplicació](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Obre l'aplicació](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Versió actual: **0.2.0** — es mostra al diàleg «Quant a» de l'aplicació.
 

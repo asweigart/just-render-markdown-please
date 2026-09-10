@@ -6,7 +6,7 @@
 
 실시간 HTML 미리보기를 제공하는 개인용 오프라인 마크다운 편집기입니다. **Just Render the Markdown, Please**는 단일 파일 웹 앱입니다. HTML 파일을 저장하고 브라우저에서 열면 계정, 서버, 설치, 인터넷 연결 없이 사용할 수 있습니다. 모든 데이터는 사용자의 컴퓨터에만 남으며, 아무것도 업로드되지 않습니다.
 
-[앱 열기](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[앱 열기](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 현재 버전: **0.2.0** — 앱의 "정보" 대화 상자에 표시됩니다.
 

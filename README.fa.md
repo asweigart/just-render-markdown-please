@@ -6,7 +6,7 @@
 
 یک ویرایشگر Markdown خصوصی و آفلاین با پیش‌نمایش زندهٔ HTML. **Just Render the Markdown, Please** یک برنامهٔ وب تک‌فایلی است: فایل HTML را ذخیره کنید، در مرورگر باز کنید و بدون حساب کاربری، سرور، نصب یا اتصال اینترنتی از آن استفاده کنید. تمام داده‌ها روی رایانهٔ خودتان می‌ماند و چیزی بارگذاری نمی‌شود.
 
-[باز کردن برنامه](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[باز کردن برنامه](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 نسخهٔ کنونی: **0.2.0** — در پنجرهٔ «درباره» برنامه نمایش داده می‌شود.
 

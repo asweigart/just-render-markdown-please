@@ -6,7 +6,7 @@
 
 Isang pribado at offline na Markdown editor na may live na HTML preview. Ang **Just Render the Markdown, Please** ay isang single-file na web app: i-save ang HTML file, buksan ito sa browser, at gamitin nang walang account, server, pag-install, o koneksyon sa internet. Nananatili sa iyong computer ang lahat ng datos; walang ina-upload.
 
-[Buksan ang App](https://inventwithpython.com/justrenderthemarkdownplease/just-render-the-markdown-please.html)
+[Buksan ang App](https://inventwithpython.com/justrendermarkdownplease/just-render-markdown-please.html)
 
 Kasalukuyang bersyon: **0.2.0** — makikita sa dialog na "Tungkol dito" ng app.
 
