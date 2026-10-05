@@ -6458,6 +6458,8 @@ Tables use GitHub-style Markdown syntax.
 
 A compact example showing several Markdown features together.
 
+![An icon of a rodent mouse](https://inventwithpython.com/mouse.webp)
+
 ## Goals
 
 - Keep the source readable
@@ -7090,7 +7092,6 @@ More information: https://inventwithpython.com
         if (!example) return;
         elements.sourceInput.value = example.source.endsWith("\n") ? example.source : `${example.source}\n`;
         elements.exampleSelect.value = "";
-        if (!elements.nameInput.value.trim()) elements.nameInput.value = sanitizedFilename(example.label.toLowerCase().replace(/\s+/g, "-"));
         elements.sourceInput.scrollTop = 0;
         elements.sourceInput.selectionStart = elements.sourceInput.selectionEnd = 0;
         updateEditorDecorations();
