@@ -20,7 +20,8 @@
 
       This layout intentionally follows the SVG, Mermaid, Graphviz, and generic
       renderer template: compact two-row header, editor left / preview right,
-      line numbers, responsive stacking, browser-controlled app light/dark mode,
+      line numbers, responsive stacking, app light/dark mode that follows the
+      browser unless the Always Light/Always Dark select forces one,
       and no persistent storage or tracking.
 
       The rendered Markdown document uses a DIFFERENT, fixed stylesheet embedded
@@ -4615,6 +4616,7 @@ return He}()
       The same generated stylesheet is used in BOTH the preview iframe and standalone
       HTML downloads. Document themes are independent from the application UI theme,
       but can follow the browser's light/dark preference when Auto mode is selected.
+      The light/dark select also drives the app UI (see applyAppColorMode()).
       ============================================================================
     */
     /*
@@ -7038,6 +7040,16 @@ More information: https://inventwithpython.com
       }
     }
 
+    /*
+      The app UI colors use light-dark(), which resolves against the root's
+      color-scheme. Auto clears the inline override so the stylesheet's
+      "light dark" follows the browser; Light/Dark force that scheme.
+    */
+    function applyAppColorMode() {
+      const mode = state.documentMode;
+      document.documentElement.style.colorScheme = mode === "light" || mode === "dark" ? mode : "";
+    }
+
     function runSelfTests() {
       console.assert(Object.keys(TRANSLATIONS).length === 40, "Expected 40 languages.");
       console.assert(EXAMPLES.every(example => example.source.endsWith("\n")), "Every example must end with a newline.");
@@ -7106,6 +7118,7 @@ More information: https://inventwithpython.com
 
       elements.documentModeSelect.addEventListener("change", () => {
         state.documentMode = elements.documentModeSelect.value;
+        applyAppColorMode();
         rebuildDocumentPresentation();
       });
 
@@ -7137,6 +7150,7 @@ More information: https://inventwithpython.com
       populateExamples();
       elements.themeSelect.value = state.theme;
       elements.documentModeSelect.value = state.documentMode;
+      applyAppColorMode();
       applyTranslations();
       installEvents();
       updateEditorDecorations();
